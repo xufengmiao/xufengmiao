@@ -1,6 +1,6 @@
-- 👋 I’m @xufengmiao
-- 👀 I’m interested in algorithms
-- 🌱 I’m currently learning machine learning
+- 👋 I’m @xuugo
+- 👀 I’m interested in sleeping
+- 🌱 I’m currently learning how to graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...：xufengmiao1125@163.com
 - 😄 Pronouns: ...
